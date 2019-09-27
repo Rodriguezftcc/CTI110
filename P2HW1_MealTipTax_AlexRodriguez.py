@@ -3,6 +3,11 @@
 ##CTI-110 P2HW1-Meal Tip Tax Calculator
 ##Alex Rodriguez
 #
+#Asking the user how much the meal cost
+#Asking the user to enter a tip in a decimal mode
+#Asking the user to enter the tax in decimal form
+#add and multiplay the tax tip and meal
+#tell them the meal cost
 
 meal=float(input("How much did your meal cost: "))
 
